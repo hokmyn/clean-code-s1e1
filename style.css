@@ -42,7 +42,7 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, h3 {
+li {
   list-style: none;
 }
 input,
