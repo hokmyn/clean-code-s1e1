@@ -46,7 +46,7 @@ li, h3 {
   list-style: none;
 }
 input,
-button{
+button {
   outline: none;
 }
 .tasks-list__item-btn {
