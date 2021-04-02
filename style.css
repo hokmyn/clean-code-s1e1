@@ -104,7 +104,6 @@ button {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -112,7 +111,6 @@ button {
 .tasks-list__item > * {
   vertical-align: middle;
 }
-
 .tasks-list__item-checkbox {
   margin: 0 10px;
 }
@@ -122,7 +120,7 @@ button {
   font-size: 18px;
   width: 226px;
 }
-.tasks-list__item >    .section__input {
+.tasks-list__item > .section__input {
   width: 226px;
 }
 .btn-delete:hover {
@@ -147,12 +145,10 @@ button {
 .section__input {
   display: none;
 }
-
 .tasks-list__item_edit .section__input {
   display: inline-block;
   width: 224px;
 }
-
 .tasks-list__item_edit .tasks-list__item-text {
   display: none;
 }
