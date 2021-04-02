@@ -29,7 +29,8 @@
   width: 500px;
   margin: 0 auto 0;
 }
-.section__input, .tasks-list__item-text {
+.section__input,
+.tasks-list__item-text {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -44,7 +45,8 @@ ul {
 li, h3 {
   list-style: none;
 }
-input,button{
+input,
+button{
   outline: none;
 }
 .tasks-list__item-btn {
