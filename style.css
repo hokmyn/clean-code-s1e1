@@ -96,9 +96,6 @@ button {
   width: 318px;
   display: block;
 }
-.section-add__btn {
-  color: #0fc57c;
-}
 
 /* Task list */
 .tasks-list__item {
